@@ -2,8 +2,6 @@ package com.mkrooted.Factory;
 
 import com.mkrooted.CuteNarwhal;
 
-import java.util.HashSet;
-
 /**
  * Factory producing average narwhals. No AVG_FREQUENCY in argument because these narwhals'll talk on the most average AVG_FREQUENCY
  */

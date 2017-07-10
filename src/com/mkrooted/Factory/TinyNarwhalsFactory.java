@@ -2,8 +2,6 @@ package com.mkrooted.Factory;
 
 import com.mkrooted.CuteNarwhal;
 
-import java.util.HashSet;
-
 /**
  * Factory producing little narwhals
  */
